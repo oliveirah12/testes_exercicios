@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\Repositorios\\Testes_Exercicios\\Diagnoses\\Diagnoses\\Diagnoses.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Repositorios\\Testes_Exercicios\\Diagnoses\\Diagnoses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\Repositorios\\Testes_Exercicios\\Diagnoses\\Diagnoses\\Diagnoses.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Repositorios\\Testes_Exercicios\\Diagnoses\\Diagnoses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Repositorios\\Testes_Exercicios\\Diagnoses\\Diagnoses\\Diagnoses.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Repositorios\\Testes_Exercicios\\Diagnoses\\Diagnoses.csproj",
         "projectName": "Diagnoses",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Repositorios\\Testes_Exercicios\\Diagnoses\\Diagnoses\\Diagnoses.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Repositorios\\Testes_Exercicios\\Diagnoses\\Diagnoses.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Repositorios\\Testes_Exercicios\\Diagnoses\\Diagnoses\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Repositorios\\Testes_Exercicios\\Diagnoses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
